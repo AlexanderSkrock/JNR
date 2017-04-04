@@ -1,0 +1,31 @@
+0: Sky : Blue.png : 
+1: Solid Sky : Blue.png : SOLID
+2: Soil : soil.png : SOLID
+3: Grass : FullGrass.png : SOLID
+4: Soil and Grass : Grass.png : SOLID
+5: Cobblestone 1 : cobble1.png : SOLID
+6: Cobblestone 2 : cobble2.png : SOLID
+7: Cobblestone 3 : cobble3.png : SOLID
+8: Dark Cobblestone 1 : darkcobble1.png : SOLID
+9: Dark Cobblestone 2 : darkcobble2.png : SOLID
+10: Dark Cobblestone 3 : darkcobble3.png : SOLID
+11: Flower 1 : flowers1.png : 
+12: Flower 2 : flowers2.png : 
+13: Flower 3 : flowers3.png : 
+14: Flower 4 : flowers4.png : 
+15: Flower 5 : flowers5.png : 
+16: Flower 6 : flowers6.png : 
+17: Flower-Mix : flowers1.png, flowers2.png, flowers3.png, flowers4.png, flowers5.png, flowers6.png : 
+18: Bush 1 : bush1.png : 
+19: Bush 2 : bush2.png : 
+20: Bush 3 : bush3.png : 
+21: Bush 4 : bush4.png : 
+22: Spikes 1 : spikes1.png : 
+23: Spikes 2 : spikes2.png : 
+24: Stub : stub.png : 
+25: Cobblestone 1 non-solid : cobble1.png : 
+26: Cobblestone 2 non-solid : cobble2.png : 
+27: Cobblestone 3 non-solid: cobble3.png : 
+28: Dark Cobblestone 1 non-solid : darkcobble1.png : 
+29: Dark Cobblestone 2 non-solid : darkcobble2.png : 
+30: Dark Cobblestone 3 non-solid : darkcobble3.png : 
